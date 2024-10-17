@@ -1,0 +1,9 @@
+﻿{
+  "name": "sound.manager.FMOD",
+  "displayName": "FMOD-SoundManager",
+  "version": "1.0.0",
+  "description": "nyom",
+  "keywords": [ "Unity", "UPM" ],
+  "author": "MEYLISH",
+  "license": "UNLICENSED"
+}
