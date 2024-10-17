@@ -1,5 +1,5 @@
 ﻿{
-  "name": "sound.manager.FMOD",
+  "name": "com.meylishDLC.AudioSystem",
   "displayName": "FMOD-SoundManager",
   "version": "1.0.0",
   "description": "nyom",
